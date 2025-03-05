@@ -42,7 +42,7 @@ QA/
  └── requirements.txt
 ```
 #
-![Результат отчета]()
+![Результат отчета](https://github.com/Farkhat1986/QA/blob/master/allure.png)
 
 
 
