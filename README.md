@@ -44,7 +44,7 @@ QA/
 #
 ![Результат отчета](https://github.com/Farkhat1986/QA/blob/master/allure.png)
 #
-Сделанный отчет можно так же посмотреть на странице ![](https://farkhat1986.github.io/QA/)
+Сделанный отчет можно так же посмотреть на странице https://farkhat1986.github.io/QA/
 
 
 
