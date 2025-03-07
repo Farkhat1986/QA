@@ -34,7 +34,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: test_fill_form
         if: "github.event.inputs.deployment_target == 'test_fill_form'"
-        run: pytest tests/test_practice_form.py::test__form --alluredir=results
+        run: pytest tests/test_practice_form.py::test_fill_form --alluredir=results
       - name: Store results
         uses: actions/upload-artifact@v4
         with:
