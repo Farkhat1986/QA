@@ -17,7 +17,7 @@
 * Нажать на кнопку Submit
 * Ожидаемый результат: Появился алерт с текстом *Message received!*
 #
-### Проект выполнен на языке ***Python*** ![Python 3.10, 3.11](https://img.shields.io/github/pypi/pyversions/Farkhat1986?color=blueviolet)
+### Проект выполнен на языке ***Python***
 ### Применены следующие библиотеки 
 * *PyTest*
 * *Selenium*
